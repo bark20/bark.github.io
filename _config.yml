@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "어둥두"
+title                    : "어둥두의 코딩 노래가락"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "어둥두"
 description              : "An amazing website."
 url                      : "https://bark20.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
